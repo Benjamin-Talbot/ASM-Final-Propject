@@ -1,0 +1,5 @@
+Check virtual box, qemu?
+
+Things left:
+    Make it work using inline assembly
+    - Advanced requirements
